@@ -1,0 +1,3 @@
+I made a fan speed controller that uses AC 220 volt mono phase voltage. The sensor readments done by using a air flow sensor.
+
+In this project I created a UI that can communicate with arduino. Communication done by using modbus communication protocol. This method is choosen bacause further implamantion of a PLC program can be needed. This method is simple to use and reliable. The UI collects the data of the sensor reads from air flow sensor and draws a chart. This chart can be saved as a jpeg and csv file.
